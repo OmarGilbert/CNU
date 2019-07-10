@@ -20,6 +20,6 @@
 *.out
 *.app
 
-src/src\.pro\.user\.cc4ec50
-
+*.cc4ec50
 *.user
+*.pro
